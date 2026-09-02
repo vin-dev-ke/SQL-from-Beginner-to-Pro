@@ -1,10 +1,10 @@
-# 🗄️ MySQL: From Basics to Advanced
+#  MySQL: From Basics to Advanced
 
 Welcome to the **MySQL: From Basics to Advanced** repository! This repository contains a structured, hands-on SQL curriculum delivered via interactive Jupyter Notebooks. It covers relational database design, querying, data transformation, window functions, complex subqueries, Common Table Expressions (CTEs), query optimization, and database views.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Course Roadmap & Modules](#-course-roadmap--modules)
@@ -23,7 +23,7 @@ Welcome to the **MySQL: From Basics to Advanced** repository! This repository co
 
 ---
 
-## 💡 Overview
+##  Overview
 
 This collection provides a comprehensive path to mastering SQL and database engineering:
 - **Foundations**: Establishing SQL connections, basic `SELECT` statements, logical operators, and relational database design.
@@ -34,7 +34,7 @@ This collection provides a comprehensive path to mastering SQL and database engi
 
 ---
 
-## 🗺️ Course Roadmap & Modules
+##  Course Roadmap & Modules
 
 ### 1. Database Connection & Design Fundamentals
 | Lesson | Topic | Notebook File |
@@ -109,7 +109,7 @@ This collection provides a comprehensive path to mastering SQL and database engi
 
 ---
 
-## 🛠️ Prerequisites & Setup
+##  Prerequisites & Setup
 
 ### 1. Requirements
 - **MySQL Server** (8.0+ recommended) or **MariaDB**.
@@ -128,7 +128,7 @@ pip install jupyter ipython-sql pymysql mysql-connector-python pandas
 
 ---
 
-## 🚀 How to Run the Notebooks
+##  How to Run the Notebooks
 
 1. Start your local MySQL service (e.g. MySQL Workbench, XAMPP, or command-line server).
 2. Launch Jupyter Notebook:
@@ -139,6 +139,6 @@ pip install jupyter ipython-sql pymysql mysql-connector-python pandas
 
 ---
 
-## 📄 License
+##  License
 
 This repository is licensed under the MIT License.
